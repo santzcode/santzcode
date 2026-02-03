@@ -25,7 +25,7 @@
 ---
 
 ### 🌐 Conecte-se comigo
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com) **ysantz69_**
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/664661372012855316)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vitor_santz6)
 [![Unique RP](https://img.shields.io/badge/Unique_Roleplay-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://uniqueroleplay.com.br/discord)
 
