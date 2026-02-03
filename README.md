@@ -7,7 +7,6 @@
 - 👑 **Diretor de Desenvolvimento** no [Unique Roleplay](https://uniqueroleplay.com.br/discord)
 - 🌱 Atualmente focado em dominar o **Front-end** para me tornar um **Fullstack Developer**
 - 💬 Pergunte-me sobre QA, Lua (FiveM/RedM) ou automação
-- 🆔 **Discord ID:** `664661372012855316` | **User:** `ysantz69_`
 
 ---
 
