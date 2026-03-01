@@ -10,6 +10,28 @@
 
 ---
 
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=santzcode&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santzcode&layout=compact&theme=tokyonight"/>
+
+</div>
+
+---
+
+### 🔥 Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=santzcode&theme=tokyonight&hide_border=false"/>
+
+</div>
+
+---
+
 ### 💻 Tecnologias e Ferramentas
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,react,nodejs,python,lua&theme=dark" />
@@ -24,12 +46,3 @@
 <a href="https://www.instagram.com/vitor_santz6" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
 </a>
-<a href="https://uniqueroleplay.com.br/discord" target="_blank">
-  <img src="https://img.shields.io/badge/Unique_Roleplay-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Unique RP">
-</a>
-
----
-
-### 📊 Atividade no GitHub
-![SantzCode GitHub Stats](https://github-readme-stats.vercel.app/api?username=santzcode&theme=dracula&show_icons=true&hide_border=true)
-
