@@ -44,12 +44,12 @@ Desenvolvedor ativo no cenário RP, criando sistemas personalizados, HUDs, autom
 ### Comunidade
 🔥 **Santz Community**  
 Comunidade focada em desenvolvimento, servidores RP e projetos multiplayer.  
-👉 Convite: https://SEU_LINK_AQUI
+👉 Convite: https://
 
 ### Servidor
 🎭 **Unique Roleplay**  
 Servidor de roleplay estruturado com foco em organização, performance e experiência imersiva.  
-👉 Convite: https://SEU_LINK_AQUI
+👉 Convite: https://
 
 ---
 
