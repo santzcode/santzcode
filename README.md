@@ -75,7 +75,7 @@ Focused on delivering reliable solutions through:
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=santzcode&theme=transparent&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=saikxyo&theme=transparent&hide_border=true" />
 </p>
 
 ---
